@@ -1,0 +1,8 @@
+module AppFlow
+singleton FontStyle 1.0 FontStyle.qml
+LocationSelection 1.0 LocationSelection.qml
+LocationManagement 1.0 LocationManagement.qml
+LocationDelegate 1.0 LocationDelegate.qml
+AppUI 1.0 AppUI.qml
+
+NumberHelpers 1.0 NumberHelpers.js

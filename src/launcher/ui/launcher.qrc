@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>launcher.qrc</file>
+        <file>main.qml</file>
+        <file>modules/AppFlow/qmldir</file>
+        <file>fonts/Roboto-Light.ttf</file>
+        <file>modules/AppFlow/FontStyle.qml</file>
+        <file>fonts/Roboto-Medium.ttf</file>
+        <file>icons/menu_24.png</file>
+        <file>icons/add_24.png</file>
+        <file>icons/delete_24.png</file>
+        <file>icons/delete_black_24.png</file>
+        <file>icons/more_vert_black_24.png</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>icons/arrow_back_24.png</file>
+        <file>icons/place_black_24.png</file>
+        <file>modules/AppFlow/NumberHelpers.js</file>
+        <file>modules/AppFlow/AppUI.qml</file>
+        <file>modules/AppFlow/MainSideNavigationPanel.qml</file>
+        <file>icons/import_black_24.png</file>
+        <file>modules/AppFlow/LocationDelegate.qml</file>
+        <file>modules/AppFlow/LocationManagement.qml</file>
+    </qresource>
+</RCC>

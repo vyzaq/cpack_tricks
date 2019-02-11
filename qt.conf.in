@@ -1,0 +1,3 @@
+[Paths]
+Prefix = .
+Plugins = @_QT_CONF_GENERATOR_PLUGINS_LOCATION@
